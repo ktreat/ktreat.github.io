@@ -2,8 +2,8 @@
 
 tapananand:
   name             : "Tapan Anand"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A Javascript developer with a hunger for leanring"
+  avatar           : "/assets/images/tapan.jpg"
+  bio              : "A Javascript developer with a hunger for learning."
   location         : "Noida, India"
   email            : "anandtapangupta68@gmail.com"
   uri              :
@@ -13,19 +13,19 @@ tapananand:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/tapananand"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/tapan-anand-90b53a45"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : "https://stackoverflow.com/users/2407962/tapananand"
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/tapan_anand"
   vine             :
   weibo            :
   xing             :
