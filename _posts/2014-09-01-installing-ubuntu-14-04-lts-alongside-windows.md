@@ -26,7 +26,7 @@ This is a post to help people to install ubuntu alongside windows. This post is 
   9. You will get a Purple screen wait till it goes away.
  10. Now, you&#8217;ll see a dialog box which shows try Ubuntu and install Ubuntu options. Click on the latter one.
   
-    [<img class="aligncenter wp-image-299" src="http://www.ktreat.com/wp-content/uploads/2014/09/ubuntuScr1.png" alt="ubuntuScr1" width="600" height="438" srcset="http://www.ktreat.com/wp-content/uploads/2014/09/ubuntuScr1.png 807w, http://www.ktreat.com/wp-content/uploads/2014/09/ubuntuScr1-300x219.png 300w, http://www.ktreat.com/wp-content/uploads/2014/09/ubuntuScr1-411x300.png 411w" sizes="(max-width: 600px) 100vw, 600px" />](http://www.ktreat.com/wp-content/uploads/2014/09/ubuntuScr1.png)
+    [<img class="aligncenter wp-image-299" src="/wp-content/uploads/2014/09/ubuntuScr1.png" alt="ubuntuScr1" width="600" height="438" srcset="/wp-content/uploads/2014/09/ubuntuScr1.png 807w, /wp-content/uploads/2014/09/ubuntuScr1-300x219.png 300w, /wp-content/uploads/2014/09/ubuntuScr1-411x300.png 411w" sizes="(max-width: 600px) 100vw, 600px" />](/wp-content/uploads/2014/09/ubuntuScr1.png)
  11. On the next screen don&#8217;t connect to internet and click on continue.
  12. On the next screen select &#8220;install ubuntu alongside Windows&#8221; and click on Continue.
  13. Now on the next screen you will get an interface to select how much space you want for Windows and Ubuntu. 30 GB for Ubuntu is good enough, you may decide on your own.
